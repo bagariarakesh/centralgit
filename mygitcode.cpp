@@ -1,1 +1,1 @@
-printf("learning git is fun")
+hello friends how are you ?
